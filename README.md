@@ -1,7 +1,7 @@
 # Sensing soundscapes from street view imagery
 
 <div align=center>
-<img src="https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/logo.png" width="400px">
+<img src="https://github.com/ualsg/Visual-soundscapes/blob/main/logo.png" width="400px">
 </div>
 
 ## Introduction
@@ -16,7 +16,7 @@ We also extract a total of 482 visual features from each imagery using computer 
 * Perceptual emotion: pleasant, chaotic, vibrant, uneventful, calm, annoying, eventful, and monotonous
 
 <div align=center>
-<img src="https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/logo.png" width="400px">
+<img src="https://github.com/ualsg/Visual-soundscapes/blob/main/fig1.png" width="400px">
 </div>
 
 We invited a total of 338 people to participate in the survey via [Amazon Mechanical Turk](https://www.mturk.com/) and social media.
@@ -28,7 +28,7 @@ The devices used in the collection include a Sound Level Meter(UT353BT) for nois
 * Three-minute recording of variations in sound intensity 
 
 <div align=center>
-<img src="https://github.com/ualsg/semantic-riverscapes-dataset/blob/main/logo.png" width="400px">
+<img src="https://github.com/ualsg/Visual-soundscapes/blob/main/fig2.png" width="400px">
 </div>
 
 ## Access
