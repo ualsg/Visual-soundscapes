@@ -1,9 +1,5 @@
 # Sensing soundscapes from street view imagery
 
-<div align=center>
-<img src="https://github.com/ualsg/Visual-soundscapes/blob/main/logo.png" width="400px">
-</div>
-
 ## Introduction
 The acoustic environment is an essential component of healthy and sustainable cities. We present a machine-learning framework for portraying large-area high-resolution urban soundscapes using ubiquitous street view imagery(SVI), without ground measurements. This dataset includes two parts: (1) SVI visual features and soundscape indicators data; (2) field-measured SVI and noise intensity data.
 
@@ -28,7 +24,7 @@ The devices used in the collection include a Sound Level Meter(UT353BT) for nois
 * Three-minute recording of variations in sound intensity 
 
 <div align=center>
-<img src="https://github.com/ualsg/Visual-soundscapes/blob/main/fig2.png" width="400px">
+<img src="https://github.com/ualsg/Visual-soundscapes/blob/main/fig2.png" width="700px">
 </div>
 
 ## Access
