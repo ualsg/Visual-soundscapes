@@ -29,7 +29,7 @@ The devices used in the collection include a Sound Level Meter(UT353BT) for nois
 
 ## Access
 
-The raw SVI data can be dowmload at [Google drive](https://drive.google.com/file/d/1_5MtWDMvtuXpsoMZ9v72ae7-LpagCchQ/view?usp=sharing). The SVI visual features and soundscape indicators data can be found at *Label_Features*. The Field-measured SVI and noise intensity data can be downloaded at [Google drive](https://drive.google.com/file/d/1b10aG0O88OPRacefSby1UJ45gu55bkj4/view?usp=sharing).
+The raw SVI data can be dowmloaded at [Google drive](https://drive.google.com/file/d/1_5MtWDMvtuXpsoMZ9v72ae7-LpagCchQ/view?usp=sharing). The SVI visual features and soundscape indicators data can be found at *Label_Features*. The Field-measured SVI and noise intensity data can be downloaded at [Google drive](https://drive.google.com/file/d/1b10aG0O88OPRacefSby1UJ45gu55bkj4/view?usp=sharing).
 
 ## Reference, citation, and documentation
 A paper is in progress, and the citation will be added here.
