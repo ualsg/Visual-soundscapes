@@ -31,15 +31,32 @@ The devices used in the collection include a Sound Level Meter(UT353BT) for nois
 
 The raw SVI data can be dowmloaded at [figshare](https://figshare.com/s/2e7e23a20be112d828ea). The SVI visual features and soundscape indicators data can be found at *Label_Features*. The Field-measured SVI and noise intensity data can be downloaded at [figshare](https://figshare.com/s/2e7e23a20be112d828ea).
 
-## Reference, citation, and documentation
-A paper is in progress, and the citation will be added here.
+## Paper
+
+A [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101915) about the work was published in _Computers, Environment and Urban Systems_ and it is available open access.
+
+If you use this work in a scientific context, please cite this article.
+
+Zhao T, Liang X, Tu W, Huang Z, Biljecki F (2023): Sensing urban soundscapes from street view imagery. Computers, Environment and Urban Systems, 99: 101915. doi:10.1016/j.compenvurbsys.2022.101915
+
+```
+@article{2023_ceus_soundscapes,
+  author = {Zhao, Tianhong and Liang, Xiucheng and Tu, Wei and Huang, Zhengdong and Biljecki, Filip},
+  doi = {10.1016/j.compenvurbsys.2022.101915},
+  journal = {Computers, Environment and Urban Systems},
+  pages = {101915},
+  title = {Sensing urban soundscapes from street view imagery},
+  volume = {99},
+  year = {2023}
+}
+```
 
 ## License
 This dataset is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 ## Contact
 Feel free to contact [Tianhong Zhao](https://ual.sg/authors/tianhong/)  or [Filip Biljecki](https://ual.sg/authors/filip/) should you have any questions.
-For more information, please visit  [Urban Analytics Lab](https://ual.sg/), National University of Singapore.
+For more information, please visit the website of the [Urban Analytics Lab](https://ual.sg/), National University of Singapore.
 
 ## Acknowledgements
 We gratefully acknowledge the participants of the survey and the input data. We thank the members of the NUS Urban Analytics Lab for the discussions. The Institutional Review Board of the National University of Singapore has reviewed and approved the ethical aspects of this research (reference code NUS-IRB-2021-906).
