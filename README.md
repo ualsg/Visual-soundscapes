@@ -33,7 +33,7 @@ The raw SVI data can be dowmloaded at [figshare](https://figshare.com/s/2e7e23a2
 
 ## Paper
 
-A [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101915) about the work was published in _Computers, Environment and Urban Systems_ and it is available open access.
+A [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101915) about the work was published in _Computers, Environment and Urban Systems_ and it is available open access [here](https://ual.sg/publication/2023-ceus-soundscapes/2023-ceus-soundscapes.pdf).
 
 If you use this work in a scientific context, please cite this article.
 
